@@ -1,7 +1,8 @@
 # Estimating Soil Quality from Satellite Images Using Vision Transformers.
 This repository uses input satellite data on regions in Africa and a dataset from iSDA to train segformer models to map soil quality in a satellite image using segmentation.
-##Context
+## Context
 This code accompanies a paper by Ayush Talukder submitted to PGHR about using Vision Transformers in tandem with satellite imaging to measure and map soil degradation. 
+
 **Paper title: Soil Degradation and Its Effects on Human Health: How AI Can Help Detect Estimate Global Soil Quality** 
 
 ## Instructions to Run
